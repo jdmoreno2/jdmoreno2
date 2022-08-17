@@ -54,6 +54,6 @@
 
 ### Hello World 👋
 
-Soy Desarrollador Backend y Frontend de nacionalidad Colombiana. Ingeniero en Sistemas que busca crecer y aplicar sus conocimientos y profesionalmente.
+Soy Desarrollador Backend y Frontend de nacionalidad Colombiana. Ingeniero en Sistemas que busca crecer y aplicar sus conocimientos profesionalmente.
 
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=jdmoreno2&layout=compact&show_icons=true&theme=nord&hide_border=true)
